@@ -8,5 +8,4 @@ Objectives
 - Manage source and destination locations.
 - Calculate delivery charges based on distance.
 - Update the delivery status.
-- Display complete courier tracking details.
-- 
+- Display complete courier tracking details
